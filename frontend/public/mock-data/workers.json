@@ -1,0 +1,22 @@
+{
+  "workers": [
+    {
+      "id": "worker-1",
+      "name": "Worker A",
+      "assignment": "Assigned to Dry Bin 1",
+      "status": "active"
+    },
+    {
+      "id": "worker-2",
+      "name": "Worker John",
+      "assignment": "Maintenance on Metal Bin 2",
+      "status": "active"
+    },
+    {
+      "id": "worker-3",
+      "name": "Worker B",
+      "assignment": "Route 4 Collection",
+      "status": "active"
+    }
+  ]
+}

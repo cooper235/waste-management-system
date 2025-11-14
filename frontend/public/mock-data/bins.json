@@ -1,0 +1,40 @@
+{
+  "bins": [
+    {
+      "id": "bin-1",
+      "type": "Metal",
+      "location": { "lat": 28.6139, "lng": 77.2090 },
+      "fillLevel": 75,
+      "status": "active",
+      "lastUpdated": "2024-01-20T10:30:00Z"
+    },
+    {
+      "id": "bin-2",
+      "type": "Biodegradable",
+      "location": { "lat": 28.6149, "lng": 77.2100 },
+      "fillLevel": 50,
+      "status": "active",
+      "lastUpdated": "2024-01-20T10:25:00Z"
+    },
+    {
+      "id": "bin-3",
+      "type": "Non-Biodegradable",
+      "location": { "lat": 28.6159, "lng": 77.2080 },
+      "fillLevel": 30,
+      "status": "active",
+      "lastUpdated": "2024-01-20T10:20:00Z"
+    },
+    {
+      "id": "bin-4",
+      "type": "Others",
+      "location": { "lat": 28.6169, "lng": 77.2110 },
+      "fillLevel": 20,
+      "status": "active",
+      "lastUpdated": "2024-01-20T10:15:00Z"
+    }
+  ],
+  "cameraFeed": {
+    "image": "https://images.unsplash.com/photo-1611183204129-d0859566a713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "detected": "Plastic Bottle"
+  }
+}

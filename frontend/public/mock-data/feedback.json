@@ -1,0 +1,22 @@
+{
+  "feedback": [
+    {
+      "id": "fb-1",
+      "user": "Quick Actions",
+      "description": "Manage Tasks",
+      "avatar": "https://via.placeholder.com/40"
+    },
+    {
+      "id": "fb-2",
+      "user": "Live",
+      "description": "Stay informed",
+      "avatar": "https://via.placeholder.com/40"
+    },
+    {
+      "id": "fb-3",
+      "user": "Real-time",
+      "description": "Stay Updated",
+      "avatar": "https://via.placeholder.com/40"
+    }
+  ]
+}
