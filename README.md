@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 AI-Powered Smart Garbage Segregation System
+# AI-Powered Smart Garbage Segregation System
 
 ### *Real-Time Computer Vision for Automated and Sustainable Waste Management*
 
